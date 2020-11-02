@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/TrichiDoan/csp2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+<![My House](https://user-images.githubusercontent.com/70997308/97829978-66bd3680-1c80-11eb-8414-f72ee456b683.jpg)>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
